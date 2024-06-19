@@ -1,24 +1,15 @@
-## Hi there 👋
+## Fala Chefe! 👋
+-----
+## Um pouco sobre mim!
+🕔 E aí rede! Prazer, me chamo Dylan, para os mais próximos "Dy" ou "Dydy", sou um cara enérgico ⚡ e extremamente dedicado 🏃 na arte do aprendizado 💡 Iniciante no ramo, hoje estudo Análise e Desenvolvimento de Sistemas, com o sonho 🎯(que brevemente será realizado) em ser um desenvolvedor front-end de "prato cheio" 🔧💻 
 
-<- Cabeçalhos ->
+![Gif](https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif)
+- 🌱 Atualmente estou estudando: JavaScript e Html/Css
+- 📫 Como me encontrar : @dylanpb_
+- 😄 Pronomes: Ele/Dele
+------
+## Minhas Formações
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50px">
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
-<!--
-**PBDylan/PBDylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+🔎[Acesse meu Linkedin!](https://www.linkedin.com/in/dylan-pereira-barbosa-359249215/)
