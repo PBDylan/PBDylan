@@ -1,4 +1,4 @@
-## Fala Chefe! 👋
+## Opa! Tudo certo? 👋
 -----
 ## Um pouco sobre mim!
 🕔 E aí rede! Prazer, me chamo Dylan, para os mais próximos "Dy" ou "Dydy", sou um cara enérgico ⚡ e extremamente dedicado 🏃 na arte do aprendizado 💡 Iniciante no ramo, hoje estudo Análise e Desenvolvimento de Sistemas, com o sonho 🎯(que brevemente será realizado) em ser um desenvolvedor front-end de "prato cheio" 🔧💻 
