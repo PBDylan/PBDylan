@@ -1,6 +1,9 @@
-## Opa! 👋
------
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dylanpb_/)[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/000908.df7M1IIY?via=search)
+<div id="content">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Opa! 🤓</h1></summary>
+</div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dylanpb_/)[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/000908.df7M1IIY?via=search)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-pereira-barbosa-359249215/)
 
 ## 💥 Um pouco sobre mim!
 🕔 E aí rede! Prazer, me chamo Dylan, para os mais próximos "Dy" ou "Dydy", sou um cara enérgico ⚡ e extremamente dedicado 🏃 na arte do aprendizado 💡 Iniciante no ramo, hoje estudo Análise e Desenvolvimento de Sistemas, com o sonho 🎯(que brevemente será realizado) em ser um desenvolvedor front-end de "prato cheio" 🔧💻 
@@ -21,6 +24,3 @@
   <img align="center" alt="adobe-lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
 </div>
 
-------
-## Meu linkedin!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-pereira-barbosa-359249215/)
